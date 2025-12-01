@@ -86,6 +86,7 @@
             <h2>Vadība</h2>
             <p><strong>Kustība:</strong> bultiņas vai kreisā peles poga uz mērķa vietu</p>
             <p><strong>Saskarsme ar personāžiem:</strong> Enter vai kreisā peles poga</p>
+            <p><strong>Piekļuve meņu:</strong> poga ESC</p>
         </section>
     </main>
 
